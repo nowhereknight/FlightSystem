@@ -1,0 +1,23 @@
+Roma::Oslo::09:23::29000::AISN09::
+Madrid::Oslo::12:00::25000::ESP-098::
+Roma::CDMX::12:34::435345345::IT-234::
+Los Angeles::Chicago::13:54::32433::USA-765::
+Berlin::Roma::13:56::3213::DTS-987::
+Toronto::Los Angeles::14:00::45000::USA-012::
+CDMX::Buenos Aires::14:05::450000::MX-154::
+Tokio::Toronto::14:05::47000::JAP-234::
+Roma::Paris::14:05::25000::IT-125::
+CDMX::Tokio::14:10::450000::MX-874::
+CDMX::Roma::14:10::470000::MX-287::
+Los Angeles::CDMX::14:10::210000::USA-254::
+CDMX::Los Angeles::14:45::234234::MX-712::
+Nueva York::Toronto::14:55::6542::USA-123::
+Buenos Aires::Madrid::15:45::145000::ARG-778::
+Los Angeles::Nueva York::15:45::654734::USA-143::
+Chicago::Berlin::16:56::23432432::USA-098::
+Los Angeles::Berlin::16:56::345012::USA-998::
+Tokio::Los Angeles::17:45::5435345::JAP-123::
+Tokio::Toronto::17:47::1237546::JAP-012::
+Berlin::Paris::17:47::4342::DTS-023::
+Berlin::Nueva York::18:17::634034::DTS-402::
+Chicago::Roma::23:32::23213::USA-627::
